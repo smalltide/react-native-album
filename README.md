@@ -9,9 +9,9 @@ use react native and restful api to create a album app
 4. react Linking
 
 ```
-	> git clone git@github.com:smalltide/react-native-album.git
-	> cd react-native-album
-	> npm install
-	> react-native run-ios
+  > git clone git@github.com:smalltide/react-native-album.git
+  > cd react-native-album
+  > npm install
+  > react-native run-ios
   > react-native run-android
 ```
